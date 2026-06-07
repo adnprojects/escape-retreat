@@ -1,13 +1,13 @@
-# Lake Retreat - Real Estate Landing Page 🌿
+# Escape Retreat - Real Estate Landing Page 🌿
 
-A premium, high-converting lead capture landing page designed for **Lake Retreat - By The Earth Projects**. This project showcases exclusive weekend farm cottages at Sarpanapalli Lake and features a seamless, serverless lead-generation form that sends data directly to a Google Spreadsheet.
+A premium, high-converting lead capture landing page designed for **Escae Retreat - By The Earth Projects**. This project showcases exclusive weekend farm cottages near Sarpanapalli Lake and features a seamless, serverless lead-generation form that sends data directly to a Google Spreadsheet.
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
 
 ## 📖 About The Project
 
-This landing page was developed to highlight the natural beauty, luxury furnishings, and prime location of the Lake Retreat project. It is optimized for lead generation, featuring a prominent inquiry form in the hero section.
+This landing page was developed to highlight the natural beauty, luxury furnishings, and prime location of the Escape Retreat project. It is optimized for lead generation, featuring a prominent inquiry form in the hero section.
 
 Instead of relying on a traditional database or paid third-party form services, this project utilizes **Google Apps Script** as a serverless backend. When a user submits their details, the vanilla JavaScript `fetch` API sends the data silently to a connected Google Sheet, providing an instant "Thank You" message without reloading the page.
 
